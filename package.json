@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "node-telegram-bot-api": "^0.56.0",
     "nodemon": "^2.0.15"
   }
